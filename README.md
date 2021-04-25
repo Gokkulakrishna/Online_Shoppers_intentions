@@ -14,4 +14,4 @@ Sakar, C.O., Polat, S.O., Katircioglu, M. et al. Neural Comput & Applic (2018).
 https://link.springer.com/article/10.1007/s00521-018-3523-0
 Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
 
-# Here Target feature is available, but still I went ahead with clustering so as to understand how clusters are formed and comapre it with actual data. Its done purely for understaning purpose only as in most of the USL cases we do not have a target feature.
+##### Here Target feature is available, but still I went ahead with clustering so as to understand how clusters are formed and comapre it with actual data. Its done purely for understaning purpose only as in most of the USL cases we do not have a target feature.
